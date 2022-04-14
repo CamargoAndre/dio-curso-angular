@@ -19,5 +19,10 @@ export class FilmesService {
 
   }
 
+  listar():Observable<Filme[]>{
+
+    return this.http.get<Filme[]>(url);
+  }
+
 
 }

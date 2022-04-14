@@ -169,6 +169,16 @@
       "urlIMDb": "",
       "genero": "Aventura",
       "id": 17
+    },
+    {
+      "titulo": "Star Wars: A Ascensão Skywalker",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "A resistência sobrevivente enfrenta a Primeira Ordem mais uma vez no último capítulo da saga Skywalker.",
+      "nota": 6.5,
+      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
+      "genero": "Aventura",
+      "id": 18
     }
   ]
 }
